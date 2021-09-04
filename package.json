@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/AnaCRDEL/lab-express-basic-site#readme",
   "dependencies": {
+    "bulma": "^0.9.3",
     "express": "^4.17.1"
   }
 }
